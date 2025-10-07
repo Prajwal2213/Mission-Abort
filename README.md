@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 # MISSION-ABORT
 
@@ -170,10 +170,3 @@ vite@^6.2.0
 
 
 
-
-
-
-
-=======
-# NASA_SPACE_APPS_2025
->>>>>>> 95e016c6db80b8654208b13e2a8eccae69a0a784
